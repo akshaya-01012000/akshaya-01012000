@@ -21,7 +21,7 @@ Open to **SDE / Frontend Engineering** roles.
 
 ## 🚀 Featured Project
 
-**[Sous Chef](https://github.com/akshaya-sr/sous-chef)** — AI-powered meal planner & recipe generator
+**[Sous Chef](https://github.com/akshaya-01012000/sous-chef)** — AI-powered meal planner & recipe generator
 
 A full-stack **Progressive Web App** installable on iOS and Android — no app store required.
 
@@ -49,5 +49,5 @@ Built with: Vanilla JS · HTML5 · CSS3 · Anthropic Claude API · Web App Manif
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaya-sr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaya-01012000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:srakshaya770@gmail.com)
