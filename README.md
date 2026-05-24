@@ -35,7 +35,7 @@ A full-stack **Progressive Web App** installable on iOS and Android — no app s
 
 Built with: Vanilla JS · HTML5 · CSS3 · Anthropic Claude API · Web App Manifest
 
-🔗 [Live Demo](https://YOUR-NETLIFY-URL.netlify.app/) &nbsp;|&nbsp; [Repo](https://github.com/akshaya-sr/sous-chef)
+🔗 [Live Demo](https://YOUR-NETLIFY-URL.netlify.app/) 
 
 ---
 
